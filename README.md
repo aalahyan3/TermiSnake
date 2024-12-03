@@ -27,4 +27,4 @@ cc temisnake.c assets/*.c -o termisnake
 `./termisname`
 ## 4. enjoy
 # ScreenShots
-![Game Screenshot](screenshot.png)
+![Game Screenshot](termisnake.png)
