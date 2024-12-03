@@ -24,7 +24,7 @@ git clone https://github.com/aalahyan3/TermiSnake TermiSnake
 cc temisnake.c assets/*.c -o termisnake
 ```
 ## 3. run the program and follow instructions
-`./termisname`
+`./termisnake`
 ## 4. enjoy
 # ScreenShots
 ![Game Screenshot](termisnake.png)
