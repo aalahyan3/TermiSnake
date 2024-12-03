@@ -7,7 +7,7 @@ snake game is the first electronic game i ever played in my childhood, today i t
 #### include Linked list, in the snake segments as it is perfetct for this purpose.
 # Feutures
 1. The playing board is dynamic, which means the player can decide the width and height of the field he wish to play on.
-2. The game has 9 defferent Levels, which effect the snake moving speed (1 is slow and 9 is fast)
+2. The game has 9 defferent Levels that affect the snake moving speed (1 is slow and 9 is fast)
 3. The score calculation considers the level you are playing and the lenght of the snake.
 4. The game is colored simply to make it more fun and better.
 5. While playing, a field will apear and display some infos dinamically, like level, and score, food eaten...
