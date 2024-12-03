@@ -11,7 +11,7 @@ snake game is the first electronic game i ever played in my childhood, today i t
 3. The score calculation considers the level you are playing and the lenght of the snake.
 4. The game is colored simply to make it more fun and better.
 5. While playing, a field will apear and display some infos dinamically, like level, and score, food eaten...
-6. The snake moves strightly into an instruction is given, a direction by pressing the arrows.
+6. The snake moves stright. if an instruction is given(directions by pressing the arrows) it turns accordingly.
 # usage
 ## 1. clone this repo:
 ```
